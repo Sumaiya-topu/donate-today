@@ -206,3 +206,14 @@ footer p{
     size: 16px;
     font-family: 'Poppins', sans-serif;
 }
+
+.image{
+    width: 360px;
+    height: 350px;
+    padding: 20px 10px 20px 10px;
+}
+
+.inspired{
+    text-align: center;
+    margin: 200px 0px 40px 0px;
+}
